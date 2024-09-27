@@ -4,11 +4,11 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
+        "最爱的小羊羊",  // 同上...
         "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
+        "这是我们一起度过的",
+        "第二个生日！",
+        "这一年来，我见过你",
         "奇怪的样子",
         "可爱的样子",
         "生气的样子",
@@ -31,11 +31,11 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
+        "最爱的小羊羊": "./imgs/nothing.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
+        "这是我们一起度过的": "./imgs/zaiyiqi.png",
+        "第二个生日！": "./imgs/nothing.jpg",
+        "这一年来，我见过你": "./imgs/yangzi.jpeg",
         "奇怪的样子": "./imgs/nothing.jpg",
         "可爱的样子": "./imgs/nothing.jpg",
         "生气的样子": "./imgs/nothing.jpg",
